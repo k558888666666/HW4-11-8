@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\fte\desktop\107360228_陳曾豪\p13\source\main.c(55): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\fte\desktop\107360228_陳曾豪\p13\source\main.c(55): warning C4473: 'printf' : 傳遞給格式字串的引數不足
+  c:\users\fte\desktop\107360228_陳曾豪\p13\source\main.c(55): note: 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 0 個
+  c:\users\fte\desktop\107360228_陳曾豪\p13\source\main.c(55): note: 缺少 variadic 引數 1 (其為格式字串 '%-5d' 所需)
+c:\users\fte\desktop\107360228_陳曾豪\p13\source\main.c(69): warning C4047: '函式': 'int *' 與 'const int [3][4]' 間接取值的層級不同
+c:\users\fte\desktop\107360228_陳曾豪\p13\source\main.c(69): warning C4024: 'printArray': 型式和實質參數 1 不同的類型
+c:\users\fte\desktop\107360228_陳曾豪\p13\source\main.c(71): warning C4090: '函式': 不同的 'const' 限定詞
+c:\users\fte\desktop\107360228_陳曾豪\p13\source\main.c(75): warning C4090: '函式': 不同的 'const' 限定詞

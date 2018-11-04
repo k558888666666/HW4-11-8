@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+	int n[10] = {37,40,50,20,4,5,67,132,44,55};
+
+	/*for (int i = 0; i < 10; i++)
+	{
+		n[i] = 0;
+	}*/
+	printf("%s%13s\n", "Element", "value");
+	for (int i = 0; i < 10; i++)
+	{
+		printf("%7d%13d\n", i, n[i]);
+	}
+	system("pause");
+	return 0;
+}
